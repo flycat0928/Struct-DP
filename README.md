@@ -3,7 +3,7 @@ Structure-Aware Local Differential Privacy for Multimodal Collaborative Inferenc
 > **🚧 Status: Active Preparation**
 > The source code is currently being cleaned up and reorganized. We will release the full training and evaluation scripts, along with the pre-trained weights, in the near future. 
 
-This repository contains the official implementation of the paper: **"Structure-Aware Local Differential Privacy for Multimodal Collaborative Inference in Cloud–Edge Distributed Learning System"**.
+This repository contains the official implementation of the paper: **"Structure-Aware Local Differential Privacy for Multimodal Collaborative Inference in Cloud–Edge Federated Learning Systems"**.
 
 ## 📖 Overview
 
